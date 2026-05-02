@@ -1,0 +1,23 @@
+[
+  {
+    "id_transaksi": "TRX-20260502-001",
+    "waktu": "2026-05-02T09:17:36.573178949Z",
+    "items": [
+      {
+        "nama": "Indomie Goreng",
+        "qty": 3,
+        "harga": 3000,
+        "subtotal": 9000
+      },
+      {
+        "nama": "Aqua Botol",
+        "qty": 1,
+        "harga": 3000,
+        "subtotal": 3000
+      }
+    ],
+    "total": 12000,
+    "bayar": 20000,
+    "kembalian": 8000
+  }
+]
